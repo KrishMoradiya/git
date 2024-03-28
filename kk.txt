@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is otherBranch
+=======
+This is file of kk
+
+keval taru kam karne
+
+Hello shani aa badhu su che..?
+>>>>>>> 80e8c52bceced69b83db953995069279e39a8c15
