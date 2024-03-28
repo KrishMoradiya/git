@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is txt file 2
 
 this is changes
@@ -6,3 +7,6 @@ this is changes
 shani patel
 Bandh kar. ane delete kar aa.
 >>>>>>> 7463e29766ce13235109fc7ed12498116bc252ab
+=======
+Shani
+>>>>>>> 2457cdcc586522aef73b1659b917631d105ec7a5
